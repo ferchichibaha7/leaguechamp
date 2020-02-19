@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/leaguechamp/static/css/main.1ce4651e.chunk.css",
+    "main.js": "/leaguechamp/static/js/main.fc03ab4c.chunk.js",
+    "main.js.map": "/leaguechamp/static/js/main.fc03ab4c.chunk.js.map",
+    "runtime-main.js": "/leaguechamp/static/js/runtime-main.579f45d0.js",
+    "runtime-main.js.map": "/leaguechamp/static/js/runtime-main.579f45d0.js.map",
+    "static/js/2.4e3c5ed1.chunk.js": "/leaguechamp/static/js/2.4e3c5ed1.chunk.js",
+    "static/js/2.4e3c5ed1.chunk.js.map": "/leaguechamp/static/js/2.4e3c5ed1.chunk.js.map",
+    "index.html": "/leaguechamp/index.html",
+    "precache-manifest.85e21a7d6f90f6af5bab4a3800ea47c0.js": "/leaguechamp/precache-manifest.85e21a7d6f90f6af5bab4a3800ea47c0.js",
+    "service-worker.js": "/leaguechamp/service-worker.js",
+    "static/css/main.1ce4651e.chunk.css.map": "/leaguechamp/static/css/main.1ce4651e.chunk.css.map",
+    "static/js/2.4e3c5ed1.chunk.js.LICENSE.txt": "/leaguechamp/static/js/2.4e3c5ed1.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/leaguechamp/static/media/bg.8c0285f1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.579f45d0.js",
+    "static/js/2.4e3c5ed1.chunk.js",
+    "static/css/main.1ce4651e.chunk.css",
+    "static/js/main.fc03ab4c.chunk.js"
+  ]
+}
